@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "productivity",
+        "2": "technical"
+    },
+    "description": "An easy way to grab the raw field names Bubble uses (ie name__text, age__number)",
+    "image": "//s3.amazonaws.com/appforest_uf/f1592236652121x241542268463671650/noun_Info_2691046%20%281%29.png",
+    "license": "open_source",
+    "name": "1T - Get Raw Field Names"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "plugins",
+    "display": "Get Field Names test",
+    "fields": {
+        "AAD": {
+            "caption": "The Thing",
+            "doc": "Just do a search for the data type (Thing) you want to see the fields for and when this action is run it will show a standard browser alert with the field data",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "thing",
+            "rank": 0,
+            "value": "_any_thing"
+        }
+    },
+    "type": "client_side"
+}
